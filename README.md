@@ -4,9 +4,9 @@ Project Overview
 This project involves the analysis of a library database using MySQL. The database includes tables for authors, books, book copies, book loans, borrowers, library branches, and publishers. The analysis focuses on extracting valuable insights from the data and understanding the relationships between different entities in the library system.
 
 Tables
-1. Authors
+1. Authors  
 Contains information about the authors of the books in the library.
-2. Books
+2. Books  
 Provides details about the books available in the library, including titles, genres, and publication information.
 3. Book Copies
 Represents the individual copies of books available in the library, specifying their availability status.
