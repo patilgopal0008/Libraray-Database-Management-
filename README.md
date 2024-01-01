@@ -7,7 +7,7 @@ Tables
 1. Authors    
 Contains information about the authors of the books in the library.  
 column's -  
-   AuthorID :  
+ AuthorID :  
     Represents the unique identifier assigned to each author.  
 
   BookID :  
