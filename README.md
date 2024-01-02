@@ -110,6 +110,13 @@ column's -
    Contains the phone number of the publisher.  
 
 
+
+   ------ER Diagram
+   ![Alt text](C:\Users\ADMIN\Downloads\sql\er library)
+   
+
+
+
    ---------Question's------------
 
   1.How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?
