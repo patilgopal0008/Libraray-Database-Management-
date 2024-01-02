@@ -113,7 +113,8 @@ column's -
 
    ------ER Diagram
    
-   
+   ![er library](https://github.com/patilgopal0008/Library-Database-Analysis-using-sql/assets/141726184/98802fc9-e636-478e-83a5-c54a0aed5b0e)
+
 
 
 
