@@ -112,7 +112,7 @@ column's -
 
 
    ------ER Diagram
-   ![Alt text](C:\Users\ADMIN\Downloads\sql\er library)
+   
    
 
 
