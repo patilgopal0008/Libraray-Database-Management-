@@ -137,7 +137,7 @@ column's -
 
 
 # Code -
-for code check-
+for code check-  
 https://github.com/patilgopal0008/Library-Database-Analysis-using-sql/blob/main/sql_project_inno.sql
   
 
