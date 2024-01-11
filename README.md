@@ -5,7 +5,9 @@ This project involves the analysis of a library database using MySQL. The databa
 
 Tables  
 1. Authors    
-Contains information about the authors of the books in the library.  
+Contains information about the authors of the books in the library.
+
+
 column's -  
  AuthorID :  
     Represents the unique identifier assigned to each author.  
@@ -17,8 +19,12 @@ column's -
   AuthorName (varchar(100)):  
    Stores the name of the author.  
 
+   
+
 3. Books    
-Provides details about the books available in the library, including titles, genres, and publication information.          
+Provides details about the books available in the library, including titles, genres, and publication information.
+
+       
 column's -   
   BookID :  
    Represents the unique identifier assigned to each book.  
@@ -29,8 +35,12 @@ column's -
   PublisherName :  
    Contains the name of the publisher.  
 
+   
+
 4. Book Copies    
-Represents the individual copies of books available in the library, specifying their availability status.  
+Represents the individual copies of books available in the library, specifying their availability status.
+
+
 column's-  
   copies_id :  
    Represents the unique identifier assigned to each book copy.  
@@ -46,8 +56,12 @@ column's-
   no_of_copies :  
    Represents the number of copies available for the associated book at the specified branch.  
 
+   
+
 6. Book Loans    
-Tracks the loans made by library patrons, including due dates and return status.  
+Tracks the loans made by library patrons, including due dates and return status.
+
+  
 column's -  
   loan_id :   
     Represents the unique identifier assigned to each book loan.  
@@ -70,8 +84,12 @@ column's -
   loans_DueDate :  
    Stores the due date for returning the borrowed book.  
 
+   
+
 7. Borrowers    
-Contains information about the library patrons who borrow books.\  
+Contains information about the library patrons who borrow books.\
+
+ 
 column's -  
   CardNo :  
    Represents the unique card number assigned to each borrower.  
@@ -85,8 +103,12 @@ column's -
   BorrowerPhone :  
    Stores the phone number of the borrower.  
 
+   
+
 7. Library Branch    
-Describes the different branches of the library, including their locations and contact information.   
+Describes the different branches of the library, including their locations and contact information.
+
+  
 column's -  
   branch_id :  
    Represents the unique identifier assigned to each library branch.  
@@ -97,8 +119,12 @@ column's -
   branch_address :  
    Contains the address of the library branch.  
 
+   
+
 9. Publishers    
-Includes details about the publishers of the books in the library.  
+Includes details about the publishers of the books in the library.
+
+  
 column's -  
   PublisherName :  
    Represents the name of the publisher.  
